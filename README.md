@@ -30,5 +30,6 @@ A high-performance, aesthetic study management system built with **React 18** an
 
 1. **Clone the repository:**
    ```bash
-   git clone [your-repository-link]
+   
+   git clone https://github.com/aswinwizard81/Project-2-React
    cd StudyCompanion
